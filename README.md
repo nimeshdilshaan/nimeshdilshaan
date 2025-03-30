@@ -1,7 +1,5 @@
-### Hi 👋, I'm Nimesh
-
-##A passionate for Developing
-
+# Hi 👋, I'm Nimesh
+### A passionate developer
 
 - 🌱 I’m currently learning Java
 - 👨‍💻 All of my projects are available at nimeshdilshaan
