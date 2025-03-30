@@ -4,7 +4,7 @@
 - 📫 How to reach me nimeshdilshan126@gmail.com
 
 - 🌟 Connect with Me:
- [Nimesh Dilshan ]([https://www.linkedin.com/in/nimesh-dilshan-8119812b6/])  
+  ([https://www.linkedin.com/in/nimesh-dilshan-8119812b6/])  
 
 🚀 Languages and Tools:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
