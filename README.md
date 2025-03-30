@@ -1,7 +1,8 @@
 ## Hi 👋, I'm Nimesh
-- 👋 Hi, I’m @nimeshdilshaan
-- 👀 I’m interested in Full Stack Development
+
 - 🌱 I’m currently learning Java
+- 👨‍💻 All of my projects are available at nimeshdilshaan
+- 👀 I’m interested in Full Stack Development
 - 📫 How to reach me nimeshdilshan126@gmail.com
 
 ### 🚀 Languages and Tools:
