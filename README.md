@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me nimeshdilshan126@gmail.com
 
-- 🌟 Connect with Me:
-  ([https://www.linkedin.com/in/nimesh-dilshan-8119812b6/])  
-
 🚀 Languages and Tools:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
