@@ -63,14 +63,6 @@ const nimesh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimeshdilshaan&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
