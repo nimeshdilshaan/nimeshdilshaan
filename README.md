@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Nimesh Dilshan
+#  Hi, I'm Nimesh Dilshan
 
-### 💻 Aspiring Full Stack Developer · ⚡ Tech Enthusiast
+### 💻 Aspiring Full Stack Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full+Stack+Enthusiast+%F0%9F%9A%80;Currently+Learning+Java+%E2%98%95;Passionate+about+Clean+Code+%F0%9F%92%BB;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
