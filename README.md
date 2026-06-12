@@ -54,13 +54,27 @@ const nimesh = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nimeshdilshaan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshdilshaan&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshdilshaan&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nimeshdilshaan&theme=radical&hide_border=true" />
 </div>
 
+---
+
+## 💬 Most Used Languages
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-22%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-12%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-9%25-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
 ---
 
 ## 📈 Contribution Graph
