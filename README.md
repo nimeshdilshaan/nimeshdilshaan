@@ -39,6 +39,18 @@ const nimesh = {
 
 <br clear="right"/>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://linkedin.com/in/nimesh-dilshaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nimesh Dilshan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nimesh.dilshan.261046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nimesh Dilshan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">View my Badges on:</h3>
+<p align="left">
+<a href="https://www.credly.com/users/nimesh-dilshan.a4a8cf22" target="blank"><img align="center" src="https://www.svgrepo.com/show/331358/credly.svg" alt="Nimesh Dilshan" height="40" width="40" /></a>
+
+
 ---
 
 ## Languages & Tools
